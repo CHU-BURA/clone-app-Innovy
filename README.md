@@ -1,3 +1,9 @@
+# 詳細記事
+- [リリース済みiOSアプリのソースコード、全部見せます！
+](https://qiita.com/ryupaka/items/ea272c843d3ebf3b245b)
+
+***
+
 # Innovy
 
 IOS news application for innovators
